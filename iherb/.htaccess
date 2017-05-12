@@ -1,0 +1,2 @@
+SetEnv PHPRC /home/shopmir5/public_html/bon/iherb/php.ini
+AddHandler application/x-httpd-php54 .php .php5 .php4 .php3
